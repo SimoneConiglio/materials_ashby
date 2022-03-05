@@ -1,2 +1,2 @@
-# materials_ashby
-a material database of class of materials from Material &amp; Environnement, Ashby.
+# Material and Environnement Material properties database
+A material database of class of materials from Material &amp; Environnement, Ashby.
